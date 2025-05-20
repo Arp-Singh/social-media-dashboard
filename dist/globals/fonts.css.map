@@ -1,0 +1,1 @@
+{"version":3,"sources":["globals/fonts.scss","globals/fonts.css"],"names":[],"mappings":"AAAA,MACI,+BCCJ","file":"globals/fonts.css","sourcesContent":[":root {\r\n    --FONT-INTER: \"Inter\", sans-serif;\r\n}",":root {\n  --FONT-INTER: \"Inter\", sans-serif;\n}"]}

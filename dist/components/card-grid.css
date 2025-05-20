@@ -1,0 +1,1 @@
+.card-grid{display:grid;gap:1.4375rem;grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(2,auto);justify-items:start}.card-grid .card__count{margin-bottom:0}.card-grid .card__change,.card-grid .card__count{align-self:end}.card-grid .card__change,.card-grid .img{justify-self:end}/*# sourceMappingURL=card-grid.css.map */
